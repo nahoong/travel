@@ -236,5 +236,151 @@ String id=(String)session.getAttribute("id");
   </ul>
    </div>
 </header>
+
+<center>
+<br>
+<br>
+<br>
+<br>
+<div style="width:50%; padding:10px; text-shadow:none; border-style:solid; boder:1px"  >
+		
+		<a href="./about/gwanghuamoon.jsp">
+		<div style='margin-bottom:0px; border-bottom:1px solid black;'>
+			<img src='./photo/gwm.PNG' width=100% style=''>
+			<div style='height:33px; background-color:#000; text-align:left; opacity:0.7;'>
+				<p style='padding:9px; color:#fff;'>
+					광화문					&nbsp;
+					<input type='hidden' class='coordinate' value='37.576026&&126.9768428'>
+					<span style='float:right; width:70px; text-align:right' class='distMeter'></span>
+				</p>
+			</div>
+		</div>
+		</a>
+		
+		<a href="../seoul/view.html?trans=kr&table_name=attraction&_category=&seq=874">
+		<div style='margin-bottom:0px; border-bottom:1px solid black;'>
+			<img src='../_file/board/201305/1369957353_070.png' width=100% style=''>
+			<div style='height:33px; background-color:#000; text-align:left; opacity:0.7;'>
+				<p style='padding:9px; color:#fff;'>
+					인사동					&nbsp;
+					<input type='hidden' class='coordinate' value='37.5717&&126.986'>
+					<span style='float:right; width:70px; text-align:right' class='distMeter'></span>
+				</p>
+			</div>
+		</div>
+		</a>
+		
+		<a href="../seoul/view.html?trans=kr&table_name=attraction&_category=&seq=833">
+		<div style='margin-bottom:0px; border-bottom:1px solid black;'>
+			<img src='../_file/board/201308/1375773554_525.png' width=100% style=''>
+			<div style='height:33px; background-color:#000; text-align:left; opacity:0.7;'>
+				<p style='padding:9px; color:#fff;'>
+					삼청동길					&nbsp;
+					<input type='hidden' class='coordinate' value='37.584838&&126.981913'>
+					<span style='float:right; width:70px; text-align:right' class='distMeter'></span>
+				</p>
+			</div>
+		</div>
+		</a>
+		
+		<a href="../seoul/view.html?trans=kr&table_name=attraction&_category=&seq=856">
+		<div style='margin-bottom:0px; border-bottom:1px solid black;'>
+			<img src='../_file/board/201309/1378290230_611.png' width=100% style=''>
+			<div style='height:33px; background-color:#000; text-align:left; opacity:0.7;'>
+				<p style='padding:9px; color:#fff;'>
+					신사동 가로수길					&nbsp;
+					<input type='hidden' class='coordinate' value='37.522688&&127.025272'>
+					<span style='float:right; width:70px; text-align:right' class='distMeter'></span>
+				</p>
+			</div>
+		</div>
+		</a>
+		
+		<a href="../seoul/view.html?trans=kr&table_name=attraction&_category=&seq=793">
+		<div style='margin-bottom:0px; border-bottom:1px solid black;'>
+			<img src='../_file/board/201306/1370302798_260.png' width=100% style=''>
+			<div style='height:33px; background-color:#000; text-align:left; opacity:0.7;'>
+				<p style='padding:9px; color:#fff;'>
+					남산(N서울타워)					&nbsp;
+					<input type='hidden' class='coordinate' value='37.5511791&&126.9881809'>
+					<span style='float:right; width:70px; text-align:right' class='distMeter'></span>
+				</p>
+			</div>
+		</div>
+		</a>
+		
+		<a href="../seoul/view.html?trans=kr&table_name=attraction&_category=&seq=795">
+		<div style='margin-bottom:0px; border-bottom:1px solid black;'>
+			<img src='../_file/board/201306/1370341134_207.png' width=100% style=''>
+			<div style='height:33px; background-color:#000; text-align:left; opacity:0.7;'>
+				<p style='padding:9px; color:#fff;'>
+					남산야외식물원					&nbsp;
+					<input type='hidden' class='coordinate' value='37.5427637&&126.9954579'>
+					<span style='float:right; width:70px; text-align:right' class='distMeter'></span>
+				</p>
+			</div>
+		</div>
+		</a>
+		
+		<a href="../seoul/view.html?trans=kr&table_name=attraction&_category=&seq=776">
+		<div style='margin-bottom:0px; border-bottom:1px solid black;'>
+			<img src='../_file/board/201306/1370862669_808.png' width=100% style=''>
+			<div style='height:33px; background-color:#000; text-align:left; opacity:0.7;'>
+				<p style='padding:9px; color:#fff;'>
+					경복궁					&nbsp;
+					<input type='hidden' class='coordinate' value='37.5788408&&126.9770162'>
+					<span style='float:right; width:70px; text-align:right' class='distMeter'></span>
+				</p>
+			</div>
+		</div>
+		</a>
+		
+		<a href="../seoul/view.html?trans=kr&table_name=attraction&_category=&seq=801">
+		<div style='margin-bottom:0px; border-bottom:1px solid black;'>
+			<img src='../_file/board/201306/1370045284_672.png' width=100% style=''>
+			<div style='height:33px; background-color:#000; text-align:left; opacity:0.7;'>
+				<p style='padding:9px; color:#fff;'>
+					덕수궁					&nbsp;
+					<input type='hidden' class='coordinate' value='37.5660945&&126.9749148'>
+					<span style='float:right; width:70px; text-align:right' class='distMeter'></span>
+				</p>
+			</div>
+		</div>
+		</a>
+		
+		<a href="../seoul/view.html?trans=kr&table_name=attraction&_category=&seq=802">
+		<div style='margin-bottom:0px; border-bottom:1px solid black;'>
+			<img src='../_file/board/201306/1370045326_643.png' width=100% style=''>
+			<div style='height:33px; background-color:#000; text-align:left; opacity:0.7;'>
+				<p style='padding:9px; color:#fff;'>
+					덕수궁 돌담길 					&nbsp;
+					<input type='hidden' class='coordinate' value='37.5654775&&126.9766203'>
+					<span style='float:right; width:70px; text-align:right' class='distMeter'></span>
+				</p>
+			</div>
+		</div>
+		</a>
+		
+		<a href="../seoul/view.html?trans=kr&table_name=attraction&_category=&seq=803">
+		<div style='margin-bottom:0px; border-bottom:1px solid black;'>
+			<img src='../_file/board/201306/1370045108_089.png' width=100% style=''>
+			<div style='height:33px; background-color:#000; text-align:left; opacity:0.7;'>
+				<p style='padding:9px; color:#fff;'>
+					덕수궁 미술관(국립현대미술관)					&nbsp;
+					<input type='hidden' class='coordinate' value='37.5658456&&126.9737396'>
+					<span style='float:right; width:70px; text-align:right' class='distMeter'></span>
+				</p>
+			</div>
+		</div>
+		</a>
+
+</div>
+</center>
+
+
+
+
+
+
 </body>
 </html>
