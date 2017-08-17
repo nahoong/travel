@@ -114,7 +114,7 @@ body {
 }
 
 .logo {
-  background: transparent url('./logo/gongcycl.png') center center no-repeat;
+  background-color: skyblue;
   width: 195px;
   background-size: contain;
   text-indent: 100%;
@@ -179,13 +179,13 @@ list-style-type:none;
 <title>Insert title here</title>
 
 <script src="./js/jquery-3.2.1.js"></script>
+
 <% 
 String id=(String)session.getAttribute("id");
 %>
-
 <script>
-
    $(function(){
+	   
       var id="<%=id%>";
       
       $.ajax({
@@ -231,7 +231,7 @@ String id=(String)session.getAttribute("id");
 <br>
 <div style="width:50%; padding:10px; text-shadow:none; border-style:solid; boder:1px"  >
 		
-		<a href="./about/gwanghuamoon.jsp">
+		<a href="./detail/details.jsp">
 		<div style='margin-bottom:0px; border-bottom:1px solid black;'>
 			<img src='./photo/gwm.PNG' width=100% style=''>
 			<div style='height:33px; background-color:#000; text-align:left; opacity:0.7;'>
@@ -243,20 +243,7 @@ String id=(String)session.getAttribute("id");
 			</div>
 		</div>
 		</a>
-		
-		<a href="../seoul/view.html?trans=kr&table_name=attraction&_category=&seq=874">
-		<div style='margin-bottom:0px; border-bottom:1px solid black;'>
-			<img src='../_file/board/201305/1369957353_070.png' width=100% style=''>
-			<div style='height:33px; background-color:#000; text-align:left; opacity:0.7;'>
-				<p style='padding:9px; color:#fff;'>
-					인사동					&nbsp;
-					<input type='hidden' class='coordinate' value='37.5717&&126.986'>
-					<span style='float:right; width:70px; text-align:right' class='distMeter'></span>
-				</p>
-			</div>
-		</div>
-		</a>
-		
+	
 		<a href="../seoul/view.html?trans=kr&table_name=attraction&_category=&seq=833">
 		<div style='margin-bottom:0px; border-bottom:1px solid black;'>
 			<img src='../_file/board/201308/1375773554_525.png' width=100% style=''>

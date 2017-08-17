@@ -4,6 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script type="text/javascript">
+alert("로그아웃되었습니다.")
+location.replace("../home.jsp");         // 이동전 주소가 안보임. 
+
+</script>
 <title>Insert title here</title>
 </head>
 <body>
